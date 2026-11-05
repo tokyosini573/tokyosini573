@@ -27,7 +27,10 @@
 **AI HACK 2026 — Excellence Award (2nd / 110)**  
 [ツマヅキ / Tsumazuki](https://github.com/tokyosini573/AI-HACK2026-TSUMAZUKI): AI users with real-world limits try your site and report where they got stuck.
 
-**U.S. Army Commander's Award for Outstanding Internship Service**  
+**Winner of the Grand Prize, 2026 Global Youth Growth Essay Competition(2026)**
+https://www.worldjob.or.kr/info/bbs/notice/view.do?menuId=1000006397&bbscttNo=238398&pageIndex=1&showItemListCount=50&orderByKey=&orderByType=&srchType=&srchTxt=&srchType2=&srchType3=&srchType4=&srchType5=&srchTxt2=&srchTxt3=
+
+**U.S. Army Commander's Award for Outstanding Internship Service (2015)**  
 Organized and led a briefing session on U.S. military internship opportunities for university students. Received a medal and commendation from a U.S. military commander in recognition of this initiative.
 
 ---
