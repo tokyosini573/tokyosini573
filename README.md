@@ -27,7 +27,7 @@
 **AI HACK 2026 — Excellence Award (2nd / 110)**  
 [ツマヅキ / Tsumazuki](https://github.com/tokyosini573/AI-HACK2026-TSUMAZUKI): AI users with real-world limits try your site and report where they got stuck.
 
-**Winner of the Grand Prize, 2026 Global Youth Growth Essay Competition(2026)**
+**Winner of the Grand Prize, 2026 Global Youth Growth Essay Competition(2026)**  
 https://shorturl.at/nnB4E
 
 **U.S. Army Commander's Award for Outstanding Internship Service (2015)**  
