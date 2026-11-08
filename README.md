@@ -18,7 +18,7 @@
 - Wrote tech-focused articles
 - Interviewed tech industry leaders
 
-**Author of [Stablecoins: The Future of Digital Finance (스테이블코인)](https://www.yes24.com/product/goods/123241246)**
+**Author of [Stablecoins: The Future of Digital Finance](https://www.yes24.com/product/goods/123241246)**
 
 ---
 
