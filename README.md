@@ -12,11 +12,12 @@
 
 **Product Engineer @ Irukasoft** · Tokyo, Japan
 - Leading AI-native development of a gamified dating app, from product concept to implementation.
-- Tech stack: Flutter, Node.js, PostgreSQL, AWS infrastructure
+- Tech stack: Flutter, Python, Node.js, PostgreSQL, AWS infrastructure, 
 
 **Former Tech Journalist @ Foundry** · Seoul, South Korea
-- Wrote tech-focused articles
-- Interviewed tech industry leaders
+- Produced B2B technology content and industry reports for global IT companies
+- Conducted executive interviews and client briefings to develop content strategies
+- Created gated content to support B2B lead generation
 
 **Author of [Stablecoins: The Future of Digital Finance](https://www.yes24.com/product/goods/123241246)**
 
