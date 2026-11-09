@@ -25,7 +25,7 @@
 
 ## 🏆 Major Achievements
 
-**AI HACK 2026 — Excellence Award (2nd / 110)**  
+**AI HACK 2026 — Excellence Award (2nd prize)**  
 [ツマヅキ / Tsumazuki](https://github.com/tokyosini573/AI-HACK2026-TSUMAZUKI): AI users with real-world limits try your site and report where they got stuck.
 
 **Winner of the Grand Prize, 2026 Global Young Adult Growth Essay Competition(2026)**  
