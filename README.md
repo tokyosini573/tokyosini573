@@ -10,9 +10,9 @@
 
 ## 🙋 About Me
 
-**Product Engineer @ Irukasoft (イルカsoft)** · Tokyo, Japan
-- Developing a gamified dating app
-- Full-stack: Flutter app, Node.js server, PostgreSQL, AWS infrastructure
+**Product Engineer @ Irukasoft** · Tokyo, Japan
+- Leading AI-native development of a gamified dating app, from product concept to implementation.
+- Tech stack: Flutter, Node.js, PostgreSQL, AWS infrastructure
 
 **Former Tech Journalist @ Foundry** · Seoul, South Korea
 - Wrote tech-focused articles
